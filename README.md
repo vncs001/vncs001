@@ -1,5 +1,11 @@
-## Hi, I'm Vinícius 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=21b900&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
+  </a>
+</div>
 
+## Hi, I'm Vinícius 👋
+ 
 - 🔭 I’m currently working on front-end.
 - 📚 I’m currently a cybersecurity and web development student.
 - 📫 How to reach me: vncsmoraes.dev@gmail.com
