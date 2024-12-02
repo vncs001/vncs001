@@ -1,7 +1,7 @@
 ## Hi, I'm Vinícius 👋
 
-- 🔭 I’m currently working on front-end
-- 📚 I’m currently learning
+- 🔭 I’m currently working on front-end.
+- 📚 I’m currently a cybersecurity and web development student.
 - 📫 How to reach me: vncsmoraes.dev@gmail.com
 
 ##
