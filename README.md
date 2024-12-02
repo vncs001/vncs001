@@ -1,6 +1,7 @@
 ## Hi, I'm Vinícius 👋
 
 - 🔭 I’m currently working on front-end
+- 📚 I’m currently learning
 - 📫 How to reach me: vncsmoraes.dev@gmail.com
 
 ##
