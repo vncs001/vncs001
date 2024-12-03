@@ -7,8 +7,8 @@
 ## Hi, I'm Vinícius 👋
  
 - 🔭 I’m currently working on front-end.
-- 📚 I’m currently a cybersecurity and web development student.
-- 📫 How to reach me: vncsmoraes.dev@gmail.com
+- 📚 Currently I’m studing cybersecurity and web development.
+- 📫 How to reach me:
 
 ##
 <div> 
