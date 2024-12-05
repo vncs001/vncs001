@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=21b900&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%C2%AF" alt="Typing SVG">
-  </a>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=21b900&pause=1000&weight=700&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%C2%AF" alt="Typing SVG" /></a>
 </div>
 
 ## Hi, I'm Vinícius 👋
