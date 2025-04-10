@@ -5,7 +5,7 @@
 
 ## Hi, I'm Vinícius 👋
  
-- 🔭 I’m currently working on front-end.
+- 🔭 I’m currently working with Java in a web application.
 - 📚 Currently I’m studing cybersecurity and web development.
 - 📫 How to reach me:
 
