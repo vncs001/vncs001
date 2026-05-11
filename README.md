@@ -4,9 +4,9 @@
 </div>
 
 ## Hi, I'm Vinícius 👋
- 
-- 🔭 I’m currently working with Java in a web application.
-- 📚 Currently I’m studing cybersecurity and web development.
+
+- 📚 Currently I’m studing at 42 Porto.
+- 🔭 Python, Java, C, SQL & cybersecurity.
 - 📫 How to reach me:
 
 ##
